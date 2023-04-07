@@ -1,0 +1,4 @@
+dev-url
+qa-url
+prod-url
+uat-url
