@@ -1,2 +1,6 @@
 project started with master branch
+<<<<<<< HEAD
 created merge conflit
+=======
+feature-2 description
+>>>>>>> feature-2
