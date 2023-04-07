@@ -1,0 +1,4 @@
+You can use a single command to create the branch and switch to it.
+ Or you can create the branch first using one command and 
+ then switch to it later using another command when you wish
+to work with it.
